@@ -4,7 +4,7 @@ const app = express();
 
 // CONFIGURACIONES
 app.set('appName', 'Este es el nombre de la aplicacion');
-app.set('port', 3000);
+app.set('port', 3002);
 
 // MOTOR DE PLANTILLA, COMO BLADE PARA LARAVEL
 app.set('view engine', 'ejs');
