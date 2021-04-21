@@ -10,6 +10,7 @@ app.set('port', 3001);
 
 
 
+
 // MOTOR DE PLANTILLA, COMO BLADE PARA LARAVEL
 app.set('view engine', 'ejs');
 
